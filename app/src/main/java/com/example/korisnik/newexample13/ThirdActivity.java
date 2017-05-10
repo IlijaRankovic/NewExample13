@@ -51,7 +51,7 @@ public class ThirdActivity extends Activity {
         Toast toast = Toast.makeText(getBaseContext(), "ThirdActivty.onPause", Toast.LENGTH_SHORT);
         toast.show();
     }
-//ilija
+
     @Override
     protected void onStop(){
         super.onStop();
