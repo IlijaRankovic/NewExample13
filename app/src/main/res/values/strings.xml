@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewExample13</string>
+    <string name="app_sceond_activity">Start an Activity</string>
 </resources>

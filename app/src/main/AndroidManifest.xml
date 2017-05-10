@@ -15,6 +15,11 @@
             android:label="@string/app_name">
         </activity>
 
+        <activity
+            android:name="com.example.korisnik.newexample13.SecondActivity"
+            android:label="@string/app_sceond_activity">
+        </activity>
+
     </application>
 
 </manifest>
