@@ -11,4 +11,11 @@
         android:id="@+id/app_second_activity"
         android:onClick="btnStartActivityClicked"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/open_browser"
+        android:id="@+id/open_browser"
+        android:onClick="btnOpenBrowserClicked"/>
+
 </LinearLayout>
